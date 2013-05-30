@@ -1,0 +1,7 @@
+---
+layout: post
+title: "title2"
+date: 2013-05-30 13:40
+comments: true
+categories: 
+---
