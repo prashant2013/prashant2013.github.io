@@ -2,10 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
+<<<<<<< HEAD
 url: http://prashant2013.github.io
 title: IIC Presentation
+=======
+url: http://prashant2013.github.io
+title: DADA Blog
+>>>>>>> 2b9d1e9d6f89e9ec47286e3a220b99d6967303b3
 subtitle: A blogging framework for IICIANS.
-author: ANSHU HANDA
+author: DADA
 simple_search: http://google.com/search
 description:
 
