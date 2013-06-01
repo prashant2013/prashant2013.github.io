@@ -12,4 +12,4 @@ What python is .....
 
 THIS :P
 
-{% img http://flockofweasels.com/wp-content/uploads/2013/01/python-snake-bite-1024x733.jpg/890/280 %}
+{% img http://flockofweasels.com/wp-content/uploads/2013/01/python-snake-bite-1024x733.jpg %}
