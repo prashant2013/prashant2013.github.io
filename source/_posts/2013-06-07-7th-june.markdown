@@ -1,0 +1,13 @@
+---
+layout: post
+title: "7th June"
+date: 2013-06-07 19:23
+comments: true
+categories: 
+author: Prashant Verma
+---
+*	1.	{% blockquote %}
+		bit.ly:
+	{% endblockquote %}
+		The new way to bookmark, organize, and share the things you care about online. 
+*	2.	Made google motion chart: last 5 year cut-of comparison of MAC and Venki.
