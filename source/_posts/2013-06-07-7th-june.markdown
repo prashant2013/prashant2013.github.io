@@ -10,4 +10,7 @@ author: Prashant Verma
 		bit.ly:
 	{% endblockquote %}
 		The new way to bookmark, organize, and share the things you care about online. 
-*	2.	Made google motion chart: last 5 year cut-of comparison of MAC and Venki.
+*	{% blockquote %}	
+		google motion chart
+	{% endblockquote %}
+		Made google motion chart: last 5 year cut-of comparison of MAC and Venki.
