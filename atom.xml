@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Keyloggers]]></title>
+  <link href="http://prashant2013.github.io/atom.xml" rel="self"/>
+  <link href="http://prashant2013.github.io/"/>
+  <updated>2013-06-08T13:52:04+05:30</updated>
+  <id>http://prashant2013.github.io/</id>
+  <author>
+    <name><![CDATA[Prashant_verma]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[analysis]]></title>
+    <link href="http://prashant2013.github.io/blog/2013/06/08/analysis/"/>
+    <updated>2013-06-08T13:50:00+05:30</updated>
+    <id>http://prashant2013.github.io/blog/2013/06/08/analysis</id>
+    <content type="html"><![CDATA[<script src="https://docs.google.com/spreadsheet/gpub?url=http%3A%2F%2Foj0ijfii34kccq3ioto7mdspc7r2s7o9-ss-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Fup_title%26up_initialstate%26up__table_query_url%3Dhttps%253A%252F%252Fdocs.google.com%252Fa%252Fiic.ac.in%252Fspreadsheet%252Ftq%253Frange%253DA2%25253AD70%2526gid%253D0%2526key%253D0AjJ_lFF493hIdGFJYWxXWHFzbW5hZHowMFpGLUlpVkE%2526pub%253D1%26url%3Dhttp%253A%252F%252Fwww.google.com%252Fig%252Fmodules%252Fmotionchart.xml%26spreadsheets%3Dspreadsheets&height=482&width=1301"></script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[7th June]]></title>
+    <link href="http://prashant2013.github.io/blog/2013/06/07/7th-june/"/>
+    <updated>2013-06-07T19:23:00+05:30</updated>
+    <id>http://prashant2013.github.io/blog/2013/06/07/7th-june</id>
+    <content type="html"><![CDATA[<ul>
+<li><ol>
+<li><blockquote><p>bit.ly:</p></blockquote>
+The new way to bookmark, organize, and share the things you care about online.</li>
+</ol>
+</li>
+<li><blockquote><p>google motion chart</p></blockquote>
+    Made google motion chart: last 5 year cut-of comparison of MAC and Venki.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[learning@Training]]></title>
+    <link href="http://prashant2013.github.io/blog/2013/06/01/learning-at-training/"/>
+    <updated>2013-06-01T19:36:00+05:30</updated>
+    <id>http://prashant2013.github.io/blog/2013/06/01/learning-at-training</id>
+    <content type="html"><![CDATA[<p>Here I will list some new terms which we came across till today in this summer training:
+1.  github
+2.  google motion chart
+3.  Sencha
+4.  Daispora
+5.  IRC
+6.  Droiddraw
+7.  Scraping: crawling over Web
+8.  RVM
+9.  octopress
+10. wordle
+11. collusion
+12. Tor</p>
+
+<p>If you know any other Please let me know :)</p>
+
+<p><img src="http://prashant2013.github.io/home/batch12-14-6/Desktop"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Python]]></title>
+    <link href="http://prashant2013.github.io/blog/2013/06/01/python/"/>
+    <updated>2013-06-01T09:50:00+05:30</updated>
+    <id>http://prashant2013.github.io/blog/2013/06/01/python</id>
+    <content type="html"><![CDATA[<p>What python is &hellip;..</p>
+
+<p>THIS :P</p>
+
+<p><img src="http://flockofweasels.com/wp-content/uploads/2013/01/python-snake-bite-1024x733.jpg"></p>
+
+<p>Python is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs.</p>
+
+<p>Python runs on Windows, Linux/Unix, Mac OS X, and has been ported to the Java and .NET virtual machines.</p>
+
+<p>Python is free to use, even for commercial products, because of its OSI-approved open source license.</p>
+]]></content>
+  </entry>
+  
+</feed>
