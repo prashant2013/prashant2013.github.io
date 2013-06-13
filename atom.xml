@@ -4,7 +4,7 @@
   <title><![CDATA[Keyloggers]]></title>
   <link href="http://prashant2013.github.io/atom.xml" rel="self"/>
   <link href="http://prashant2013.github.io/"/>
-  <updated>2013-06-13T12:28:26+05:30</updated>
+  <updated>2013-06-13T12:36:12+05:30</updated>
   <id>http://prashant2013.github.io/</id>
   <author>
     <name><![CDATA[Prashant_verma]]></name>
@@ -43,7 +43,8 @@
     <link href="http://prashant2013.github.io/blog/2013/06/08/analysis/"/>
     <updated>2013-06-08T13:50:00+05:30</updated>
     <id>http://prashant2013.github.io/blog/2013/06/08/analysis</id>
-    <content type="html"><![CDATA[<p>For better visualization, please select colors as unique and select all colleges for trails.</p>
+    <content type="html"><![CDATA[<p>This chart visualizes the cut off for B.Sc(H) Electronics in different colleges of DU over the last 5 years.
+For better visualization, please select colors as unique and select all colleges for trails.</p>
 
 <script src="https://docs.google.com/spreadsheet/gpub?url=http%3A%2F%2Foj0ijfii34kccq3ioto7mdspc7r2s7o9-ss-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Fup_title%26up_initialstate%26up__table_query_url%3Dhttps%253A%252F%252Fdocs.google.com%252Fa%252Fiic.ac.in%252Fspreadsheet%252Ftq%253Frange%253DA2%25253AD70%2526gid%253D0%2526key%253D0AjJ_lFF493hIdGFJYWxXWHFzbW5hZHowMFpGLUlpVkE%2526pub%253D1%26url%3Dhttp%253A%252F%252Fwww.google.com%252Fig%252Fmodules%252Fmotionchart.xml%26spreadsheets%3Dspreadsheets&height=400&width=600"></script>
 
@@ -76,22 +77,22 @@ The new way to bookmark, organize, and share the things you care about online.</
     <updated>2013-06-01T19:36:00+05:30</updated>
     <id>http://prashant2013.github.io/blog/2013/06/01/learning-at-training</id>
     <content type="html"><![CDATA[<p>Here I will list some new terms which we came across till today in this summer training:
-1.  github
-2.  google motion chart
-3.  Sencha
-4.  Daispora
-5.  IRC
-6.  Droiddraw
-7.  Scraping: crawling over Web
-8.  RVM
-9.  octopress
-10. wordle
-11. collusion
-12. Tor</p>
+*   1.  github
+*   2.  google motion chart
+*   3.  Sencha
+*   4.  Daispora
+*   5.  IRC
+*   6.  Droiddraw
+*   7.  Scraping: crawling over Web
+*   8.  RVM
+*   9.  octopress
+*   10. wordle
+*   11. collusion
+*   12. Tor</p>
 
 <p>If you know any other Please let me know :)</p>
 
-<p><img src="http://prashant2013.github.io/home/batch12-14-6/Desktop"></p>
+<p><img src="http://s24.postimg.org/unb1d5h4l/Capture.png"></p>
 ]]></content>
   </entry>
   
