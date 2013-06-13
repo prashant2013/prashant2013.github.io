@@ -11,3 +11,11 @@ A Simple Web Crawler can be done in Python by using just two of its libraries:
 *	Requests
 {% endblockquote %}
 
+Install these packages by using either of pip or apt-get commands in Python environment:
+
+{% codeblock Installing Libraries %}
+sudo apt-get install python-bs4
+pip install BeautifulSoup
+pip install requests
+{% endcodeblock %}
+
