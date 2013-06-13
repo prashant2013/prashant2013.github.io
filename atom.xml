@@ -4,7 +4,7 @@
   <title><![CDATA[Keyloggers]]></title>
   <link href="http://prashant2013.github.io/atom.xml" rel="self"/>
   <link href="http://prashant2013.github.io/"/>
-  <updated>2013-06-13T10:38:09+05:30</updated>
+  <updated>2013-06-13T12:09:23+05:30</updated>
   <id>http://prashant2013.github.io/</id>
   <author>
     <name><![CDATA[Prashant_verma]]></name>
@@ -29,9 +29,9 @@
 <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>sudo apt-get install python-bs4
-</span><span class='line'>pip install BeautifulSoup
-</span><span class='line'>pip install requests</span></code></pre></td></tr></table></div></figure>
+</pre></td><td class='code'><pre><code class=''><span class='line'>sudo apt-get install python-bs4 OR
+</span><span class='line'>sudo pip install BeautifulSoup4
+</span><span class='line'>sudo pip install requests</span></code></pre></td></tr></table></div></figure>
 
 
 
