@@ -4,7 +4,7 @@
   <title><![CDATA[Keyloggers]]></title>
   <link href="http://prashant2013.github.io/atom.xml" rel="self"/>
   <link href="http://prashant2013.github.io/"/>
-  <updated>2013-06-13T08:29:36+05:30</updated>
+  <updated>2013-06-13T10:31:35+05:30</updated>
   <id>http://prashant2013.github.io/</id>
   <author>
     <name><![CDATA[Prashant_verma]]></name>
@@ -18,7 +18,21 @@
     <link href="http://prashant2013.github.io/blog/2013/06/13/simple-web-crawler/"/>
     <updated>2013-06-13T08:29:00+05:30</updated>
     <id>http://prashant2013.github.io/blog/2013/06/13/simple-web-crawler</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>A Simple Web Crawler can be done in Python by using just two of its libraries:</p>
+
+<blockquote><p>*    BeautifulSoup &<br/>*   Requests</p></blockquote>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Simple Web Crawler]]></title>
+    <link href="http://prashant2013.github.io/blog/2013/06/12/simple-web-crawler/"/>
+    <updated>2013-06-12T23:05:00+05:30</updated>
+    <id>http://prashant2013.github.io/blog/2013/06/12/simple-web-crawler</id>
+    <content type="html"><![CDATA[<p>Simplest Web Crawler can be done easily by using two python libraries:</p>
 ]]></content>
   </entry>
   
