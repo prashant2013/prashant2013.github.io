@@ -7,5 +7,7 @@ categories:
 author: Prashant Verma
 ---
 Simplest Web Crawler can be done easily by using two python libraries:
+*	{% blockquote BeautifulSoup {% endblockquote %}
+*	{% blockquote Requests {% endblockquote %}
 
 
