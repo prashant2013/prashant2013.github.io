@@ -6,7 +6,8 @@ comments: true
 categories: 
 ---
 
-Here I will list some new terms which we came across till today in this summer training:
+Here I will list some new terms which we came across till today in this summer training:  
+
 github  
 google motion chart  
 Sencha  
@@ -22,5 +23,5 @@ Tor
 
 If you know any other Please let me know :)
 
-{% img http://s24.postimg.org/unb1d5h4l/Capture.png %}
+{% img <a href='http://postimg.org/image/9xuqgtv3t/' target='_blank'><img src='http://s12.postimg.org/9xuqgtv3t/Capture.jpg' border='0' alt="Capture" /></a> %}
 
