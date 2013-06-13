@@ -7,20 +7,20 @@ categories:
 ---
 
 Here I will list some new terms which we came across till today in this summer training:
-1.	github
-2.	google motion chart
-3.	Sencha
-4.	Daispora
-5.	IRC
-6.	Droiddraw
-7.	Scraping: crawling over Web
-8.	RVM
-9.	octopress
-10.	wordle
-11.	collusion
-12.	Tor
+*	1.	github
+*	2.	google motion chart
+*	3.	Sencha
+*	4.	Daispora
+*	5.	IRC
+*	6.	Droiddraw
+*	7.	Scraping: crawling over Web
+*	8.	RVM
+*	9.	octopress
+*	10.	wordle
+*	11.	collusion
+*	12.	Tor
 
 If you know any other Please let me know :)
 
-{% img /home/batch12-14-6/Desktop %}
+{% img http://s24.postimg.org/unb1d5h4l/Capture.png %}
 
