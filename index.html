@@ -110,7 +110,22 @@
 </span><span class='line'>sudo pip install requests</span></code></pre></td></tr></table></div></figure>
 
 
+<p>Now the sample code to fetch text on the webpage:</p>
 
+<figure class='code'><figcaption><span>code </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>from bs4 import BeautifulSoup
+</span><span class='line'>import requests
+</span><span class='line'>url=requests.get("http://www.crummy.com/software/BeautifulSoup/bs4/doc/")
+</span><span class='line'>soup=BeautifulSoup(url.content)
+</span><span class='line'>print (soup.get_text())</span></code></pre></td></tr></table></div></figure>
+
+
+<p>The link mentioned here is also a reference site for crawler, please visit and read first.</p>
 </div>
   
   
@@ -234,18 +249,18 @@ The new way to bookmark, organize, and share the things you care about online.</
 
 
   <div class="entry-content"><p>Here I will list some new terms which we came across till today in this summer training:
-*   1.  github
-*   2.  google motion chart
-*   3.  Sencha
-*   4.  Daispora
-*   5.  IRC
-*   6.  Droiddraw
-*   7.  Scraping: crawling over Web
-*   8.  RVM
-*   9.  octopress
-*   10. wordle
-*   11. collusion
-*   12. Tor</p>
+github<br/>
+google motion chart<br/>
+Sencha<br/>
+Diaspora<br/>
+IRC
+Droiddraw<br/>
+Scraping: crawling over Web<br/>
+RVM<br/>
+Octopress<br/>
+Wordle<br/>
+Collusion<br/>
+Tor</p>
 
 <p>If you know any other Please let me know :)</p>
 
