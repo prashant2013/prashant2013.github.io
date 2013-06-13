@@ -4,7 +4,7 @@
   <title><![CDATA[Keyloggers]]></title>
   <link href="http://prashant2013.github.io/atom.xml" rel="self"/>
   <link href="http://prashant2013.github.io/"/>
-  <updated>2013-06-13T10:31:35+05:30</updated>
+  <updated>2013-06-13T10:38:09+05:30</updated>
   <id>http://prashant2013.github.io/</id>
   <author>
     <name><![CDATA[Prashant_verma]]></name>
@@ -21,6 +21,17 @@
     <content type="html"><![CDATA[<p>A Simple Web Crawler can be done in Python by using just two of its libraries:</p>
 
 <blockquote><p>*    BeautifulSoup &<br/>*   Requests</p></blockquote>
+
+
+<p>Install these packages by using either of pip or apt-get commands in Python environment:</p>
+
+<figure class='code'><figcaption><span>Installing Libraries </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>sudo apt-get install python-bs4
+</span><span class='line'>pip install BeautifulSoup
+</span><span class='line'>pip install requests</span></code></pre></td></tr></table></div></figure>
 
 
 
