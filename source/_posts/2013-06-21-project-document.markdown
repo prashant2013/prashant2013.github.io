@@ -41,3 +41,8 @@ This App will provide you the list of Hotels in the Area including their Telepho
 	Idea Person:  
 	Mr. Subhransu SM	
 	{% endpullquote %}
+
+{% blockquote Present Status: %}
+{% endblockquote %}
+
+	Market and Framework Research
