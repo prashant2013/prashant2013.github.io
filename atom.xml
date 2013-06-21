@@ -4,7 +4,7 @@
   <title><![CDATA[Keyloggers]]></title>
   <link href="http://prashant2013.github.io/atom.xml" rel="self"/>
   <link href="http://prashant2013.github.io/"/>
-  <updated>2013-06-21T14:10:31+05:30</updated>
+  <updated>2013-06-21T14:32:14+05:30</updated>
   <id>http://prashant2013.github.io/</id>
   <author>
     <name><![CDATA[Prashant_verma]]></name>
@@ -23,22 +23,30 @@
 
 <p>This App will provide you the list of Hotels in the Area including their Telephone Numbers and Web Addresses. You can click on the hyperlink to avail the facilities.</p>
 
-<pre><code>Features:
-Auto search nearby Hotels
+<blockquote><p></p><footer><strong>Features:</strong></footer></blockquote>
+
+
+<pre><code>Auto search nearby Hotels
 Call/booking on a click
 Map View
 Hotel Comparision
 Virtual Tour
 Multilingual
 Emergency Contact numbers
+</code></pre>
 
-Data Requirements
-    Hotel list with phone number and their weblinks
-    Tour Operators lists
-    Location Images and emergency contact numbers
+<blockquote><p></p><footer><strong>Data Requirements:</strong></footer></blockquote>
 
-Target Audience
-    Anybody who is interested to visit Incredible India.
+
+<pre><code>Hotel list with phone number and their weblinks
+Tour Operators lists
+Location Images and emergency contact numbers
+</code></pre>
+
+<blockquote><p></p><footer><strong>Target Audience:</strong></footer></blockquote>
+
+
+<pre><code>Anybody who is interested to visit Incredible India.
 </code></pre>
 ]]></content>
   </entry>
