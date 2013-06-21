@@ -30,3 +30,14 @@ This App will provide you the list of Hotels in the Area including their Telepho
 {% blockquote Target Audience: %}
 {% endblockquote %}
 	Anybody who is interested to visit Incredible India.
+
+{% blockquote Team: %}
+{% endblockquote %}
+
+	Anjali Gosain
+	Anshu Handa
+	Prashant Verma
+	{% pullquote %}
+	Idea Person:  
+	Mr. Subhransu SM	
+{% endpullquote %}
