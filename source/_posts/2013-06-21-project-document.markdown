@@ -11,7 +11,8 @@ author: Prashant
 
 This App will provide you the list of Hotels in the Area including their Telephone Numbers and Web Addresses. You can click on the hyperlink to avail the facilities.
 
-	Features:
+{% blockquote Features: %}
+{% endblockquote %}
 	Auto search nearby Hotels
 	Call/booking on a click
 	Map View
@@ -20,10 +21,12 @@ This App will provide you the list of Hotels in the Area including their Telepho
 	Multilingual
 	Emergency Contact numbers
 
-	Data Requirements
-		Hotel list with phone number and their weblinks
-		Tour Operators lists
-		Location Images and emergency contact numbers
+{% blockquote Data Requirements: %}
+{% endblockquote %}
+	Hotel list with phone number and their weblinks
+	Tour Operators lists
+	Location Images and emergency contact numbers
 
-	Target Audience
-		Anybody who is interested to visit Incredible India.
+{% blockquote Target Audience: %}
+{% endblockquote %}
+	Anybody who is interested to visit Incredible India.
