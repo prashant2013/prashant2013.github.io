@@ -37,10 +37,7 @@ This App will provide you the list of Hotels in the Area including their Telepho
 	Anjali Gosain
 	Anshu Handa
 	Prashant Verma
-	{% pullquote %}
-	Idea Person:  
-	Mr. Subhransu SM	
-	{% endpullquote %}
+
 
 {% blockquote Present Status: %}
 {% endblockquote %}
